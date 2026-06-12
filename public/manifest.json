@@ -1,0 +1,23 @@
+{
+  "name": "TalkWave Real-time Chat Client",
+  "short_name": "TalkWave",
+  "description": "WhatsApp-style real-time messaging web client and mobile PWA.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#111b21",
+  "theme_color": "#00a884",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1614741118887-7a4ee193a5fa?w=512&h=512&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

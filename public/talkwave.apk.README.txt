@@ -1,0 +1,5 @@
+INSTRUCTION:
+Please place your Android APK file in this directory and name it exactly:
+talkwave.apk
+
+This is required so that the download buttons on the Landing Page can fetch it from `/talkwave.apk` as a direct download.
